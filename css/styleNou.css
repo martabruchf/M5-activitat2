@@ -1,0 +1,17 @@
+#formulari {
+    background-color: lightgoldenrodyellow;
+    width: 60%;
+    margin: 0 auto;
+    padding: 10px;
+    display: none;
+}
+
+.paperera{
+    display: none;
+}
+
+#visites{
+    color: white;
+    width: 90%;
+    margin: 0 5%;
+}
